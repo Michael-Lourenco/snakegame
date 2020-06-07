@@ -1,6 +1,7 @@
 # snakegame
 Um tutorial para o desenvolvimento do clássico jogo da serpente, o Snake Game
-
+Baixe o pacote neste link:<br/>
+[Snake Resources](https://github.com/Michael-Lourenco/snakegame/blob/master/snakeresources.unitypackage)<br/>
 O conteúdo deste tutorial foi retirado do link:<br/>
 [noobtuts] (https://noobtuts.com/unity/2d-snake-game) <br/>
 
